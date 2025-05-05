@@ -58,4 +58,3 @@ It's quirky, it's raw, and it’s powered by the same values as the hens it hono
 
 📜 License
 MIT – Free to modify, fork, or rework for your own farm fantasy.
-
